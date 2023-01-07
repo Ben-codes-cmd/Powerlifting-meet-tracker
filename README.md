@@ -14,7 +14,8 @@ By entering the Standings tab, the focus shifts from the individual lifter to th
 
 ## Upcoming additions
 
-The next feature that I am working on is a means of serializing the athlete roster to achieve object persistence with lifter objects.
+- The next feature that I am working on is a means of serializing the athlete roster to achieve object persistence with lifter objects.
+- I would also like to transfer content styling to css classes for ease of editing
 
 
 ## Takeaways
